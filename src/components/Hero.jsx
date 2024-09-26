@@ -97,7 +97,7 @@ const Hero = () => {
           transition={{
             duration: 2,
           }}
-          className="xl:min-h-[90vh] min-h-[80vh] flex justify-center items-end py-32 absolute top-0 left-0 w-full"
+          className="xl:min-h-[90vh] min-h-[50vh] flex justify-center items-end py-32 absolute top-0 left-0 w-full"
         >
           <div className="text-center sm:text-6xl text-4xl   xl:text-9xl font-bold leading-none">
             <h1 className="xl:text-2xl xl:text-gray-500 text-xs font-sans pb-10 text-gray-800 xl:pb-0  uppercase xl:font-normal">
